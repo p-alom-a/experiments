@@ -19,55 +19,56 @@ background-color: gray;
 
 
 
-.one { background-image: url('./picture/row-1-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
-.two { background-image: url('./picture/row-1-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
-.three { background-image:url('./picture/row-1-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
-.four { background-image: url('./picture/row-1-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
-.five { background-image: url('./picture/row-1-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
-.six { background-image: url('./picture/row-1-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
-.seven { background-image: url('./picture/row-1-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
-.eight { background-image: url('./picture/row-2-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
-.nine { background-image: url('./picture/row-2-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
-.ten { background-image: url('./picture/row-2-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
-.eleven { background-image: url('./picture/row-2-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twelve { background-image: url('./picture/row-2-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirteen { background-image: url('./picture/row-2-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fourteen { background-image: url('./picture/row-2-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fifteen { background-image: url('./picture/row-3-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
-.sixteen { background-image: url('./picture/row-3-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
-.seventeen { background-image: url('./picture/row-3-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
-.eighteen { background-image: url('./picture/row-3-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
-.nineteen { background-image: url('./picture/row-3-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twenty { background-image: url('./picture/row-3-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentyone { background-image: url('./picture/row-3-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentytwo { background-image: url('./picture/row-4-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentythree { background-image: url('./picture/row-4-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentyfour { background-image: url('./picture/row-4-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentyfive { background-image: url('./picture/row-4-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentysix { background-image: url('./picture/row-4-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentyseven { background-image: url('./picture/row-4-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentyeight { background-image: url('./picture/row-4-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
-.twentynine { background-image: url('./picture/row-5-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirty { background-image: url('./picture/row-5-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtyone { background-image: url('./picture/row-5-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtytwo { background-image: url('./picture/row-5-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtythree { background-image: url('./picture/row-5-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtyfour { background-image: url('./picture/row-5-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtyfive { background-image: url('./picture/row-5-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtysix { background-image: url('./picture/row-6-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtyseven { background-image: url('./picture/row-6-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtyeight { background-image: url('./picture/row-6-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
-.thirtynine { background-image: url('./picture/row-6-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
-.forty { background-image: url('./picture/row-6-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortyone { background-image: url('./picture/row-6-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortytwo { background-image: url('./picture/row-6-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortythree { background-image: url('./picture/row-7-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortyfour { background-image: url('./picture/row-7-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortyfive { background-image: url('./picture/row-7-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortysix { background-image: url('./picture/row-7-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortyseven { background-image: url('./picture/row-7-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortyeight { background-image: url('./picture/row-7-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
-.fortynine { background-image: url('./picture/row-7-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
+.one { background-image: url('row-1-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
+.two { background-image: url('row-1-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
+.three { background-image:url('row-1-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
+.four { background-image: url('row-1-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
+.five { background-image: url('row-1-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
+.six { background-image: url('row-1-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
+.seven { background-image: url('row-1-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
+.eight { background-image: url('row-2-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
+.nine { background-image: url('row-2-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
+.ten { background-image: url('row-2-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
+.eleven { background-image: url('row-2-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twelve { background-image: url('row-2-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirteen { background-image: url('row-2-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fourteen { background-image: url('row-2-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fifteen { background-image: url('row-3-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
+.sixteen { background-image: url('row-3-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
+.seventeen { background-image: url('row-3-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
+.eighteen { background-image: url('row-3-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
+.nineteen { background-image: url('row-3-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twenty { background-image: url('row-3-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentyone { background-image: url('row-3-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentytwo { background-image: url('row-4-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentythree { background-image: url('row-4-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentyfour { background-image: url('row-4-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentyfive { background-image: url('row-4-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentysix { background-image: url('row-4-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentyseven { background-image: url('row-4-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentyeight { background-image: url('row-4-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
+.twentynine { background-image: url('row-5-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirty { background-image: url('row-5-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtyone { background-image: url('row-5-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtytwo { background-image: url('row-5-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtythree { background-image: url('row-5-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtyfour { background-image: url('row-5-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtyfive { background-image: url('row-5-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtysix { background-image: url('row-6-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtyseven { background-image: url('row-6-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtyeight { background-image: url('row-6-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
+.thirtynine { background-image: url('row-6-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
+.forty { background-image: url('row-6-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortyone { background-image: url('row-6-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortytwo { background-image: url('row-6-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortythree { background-image: url('row-7-column-1.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortyfour { background-image: url('row-7-column-2.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortyfive { background-image: url('row-7-column-3.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortysix { background-image: url('row-7-column-4.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortyseven { background-image: url('row-7-column-5.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortyeight { background-image: url('row-7-column-6.jpg'); background-repeat: no-repeat; background-size: cover; }
+.fortynine { background-image: url('row-7-column-7.jpg'); background-repeat: no-repeat; background-size: cover; }
+
 
 
 
