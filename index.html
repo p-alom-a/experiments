@@ -80,6 +80,16 @@
         <div class="grid-element fortynine"></div>
     </div>
 </div>
+      <script>
+        document.addEventListener('touchstart', function(event) {
+            if (event.target.closest('.grid-element')) {
+                const items = document.querySelectorAll('.grid-element');
+                items.forEach(item => item.classList.remove('touch-hover'));
+                event.target.closest('.grid-element').classList.add('touch-hover');
+            }
+        });
+    </script>
+
 
     
 </body>
